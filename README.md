@@ -1,5 +1,3 @@
-# Useinsider test task
-
 Basic tests for useinsider career flow.
 
 ## How to run
